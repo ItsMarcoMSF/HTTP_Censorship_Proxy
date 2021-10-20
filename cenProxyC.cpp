@@ -1,5 +1,5 @@
 /* 
- * File Name: cenProxy.c
+ * File Name: cenProxy.cpp
  * Author: Viet An Truong
  * Email: vietan124@gmail.com
  */
